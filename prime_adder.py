@@ -1,3 +1,4 @@
+# Sum of 2 prime numbers
 import random
 
 def is_prime(number):
